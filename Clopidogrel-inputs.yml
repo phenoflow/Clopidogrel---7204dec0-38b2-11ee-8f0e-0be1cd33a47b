@@ -1,0 +1,24 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/clopidogrel---primary.py
+inputModule3:
+  class: File
+  path: python/clopidogrel-p3-300mg---primary.py
+inputModule4:
+  class: File
+  path: python/clopidogrel-p3-plavix---primary.py
+inputModule5:
+  class: File
+  path: python/clopidogrel-p3-tablet---primary.py
+inputModule6:
+  class: File
+  path: python/clopidogrel-p3-suspension---primary.py
+inputModule7:
+  class: File
+  path: python/clopidogrel-p3---primary.py
+inputModule8:
+  class: File
+  path: python/output-cases.py
